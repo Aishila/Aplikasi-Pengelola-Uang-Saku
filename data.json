@@ -1,0 +1,47 @@
+{
+  "saldo": 998500000.0,
+  "transaksi": [
+    {
+      "tipe": "pemasukan",
+      "jumlah": 1000000000.0,
+      "waktu": "2026-02-03T06:01:38.076023"
+    },
+    {
+      "tipe": "pengeluaran",
+      "jumlah": 2000000.0,
+      "waktu": "2026-02-03T06:01:49.899528"
+    },
+    {
+      "tipe": "pemasukan",
+      "jumlah": 1000.0,
+      "catatan": "nabung harian",
+      "waktu": "2026-02-03T06:17:52.783475"
+    },
+    {
+      "tipe": "pengeluaran",
+      "jumlah": 1000.0,
+      "catatan": "jajan cilok",
+      "waktu": "2026-02-03T06:18:06.887664"
+    },
+    {
+      "tipe": "pemasukan",
+      "jumlah": 500000.0,
+      "catatan": "uang saku",
+      "waktu": "2026-02-03T06:21:50.186000"
+    },
+    {
+      "tipe": "pemasukan",
+      "jumlah": 1000.0,
+      "catatan": "sangu",
+      "waktu": "2026-02-02T00:00:00"
+    },
+    {
+      "tipe": "pengeluaran",
+      "jumlah": 1000.0,
+      "catatan": "beli cilok",
+      "waktu": "2026-02-03T00:00:00"
+    }
+  ],
+  "total_pemasukan": 502000.0,
+  "total_pengeluaran": 2000.0
+}
